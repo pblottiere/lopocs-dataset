@@ -10,5 +10,5 @@ dbbuilder \
   -files "./*.laz" \
   -venv ~/.virtualenvs/lightpcss/ \
   -target greyhound \
-  -srid TODO \
+  -srid 3946 \
   -lodmax 6
