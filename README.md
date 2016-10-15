@@ -53,13 +53,13 @@ IP adress instead of sockets):
 > uwsgi --yml /tmp/dbbuilder/lopocs.uwsgi.yml.terrain
 ```
 
-## Saint Helens : TODO
+## Saint Helens
 
 EPSG: 26910
 
 Number of points: 12 388 139
 
-WGS84:
+WGS84: 46.191668, -122.195562
 
 
 
