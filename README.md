@@ -15,7 +15,7 @@ Lopocs repository:
 To build a dataset to visualize with Potree viewer, edit the file
 *potree.sh* according to your needs then:
 
-'''
+```
 > cd terrain
 > sh get_las.sh
 > sh potree.sh
@@ -44,14 +44,14 @@ lopocs_demos_terrain_potree=# \d
 (9 rows)
 
 lopocs_demos_terrain_potree=#
-'''
+```
 
 Then you can run lopocs (you can edit *lopocs.uwsgi.yml.terrain* to use your
 IP adress instead of sockets):
 
-'''
+```
 > uwsgi --yml /tmp/dbbuilder/lopocs.uwsgi.yml.terrain
-'''
+```
 
 ## Saint Helens : TODO
 
