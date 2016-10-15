@@ -85,25 +85,23 @@ WGS84: 42.209972, -84.229778
 
 ## Montreal
 
-Download: http://montreal.maps.arcgis.com/apps/Viewer/index.html?appid=0e6890209c024ef88a73cbc0bb6a3308
+Website: http://data.grandlyon.com/imagerie/points-lidar-2015-du-grand-lyon/
 
-### Montreal0 - Parc Kent
+Download: http://montreal.maps.arcgis.com/apps/Viewer/index.html?appid=0e6890209c024ef88a73cbc0bb6a3308
 
 EPSG: 2950
 
-Number of points: 13 943 881
-
 WGS84: 45.504204, -73.631889
+
+### Montreal0 - Parc Kent
+
+Number of points: 13 943 881
 
 Tiles: 294-5040
 
 ### Montreal1 - TODO
 
-EPSG: 2950
-
 Number of points: 311 292 000
-
-WGS84:
 
 Tiles:
 - 291-5038 / 291-5039 / 291-5040 / 291-5041
@@ -113,11 +111,7 @@ Tiles:
 
 ### Montreal2 - TODO
 
-EPSG: 2950
-
 Number of points:
-
-WGS84:
 
 Tiles:
 
@@ -127,24 +121,20 @@ Tiles:
 
 Download: https://download.data.grandlyon.com/files/grandlyon/imagerie/mnt2015/lidar/
 
+EPSG: 3946
+
+WGS84: 45.763579, 4.835121
+
 ### Lyon0 - TODO
 
-EPSG:
-
 Number of points:
-
-WGS84:
 
 Tiles:
 - 1839-5175
 
 ### Lyon1 - TODO
 
-EPSG:
-
 Number of points:
-
-WGS84:
 
 Tiles:
 - 1839-5175
@@ -154,7 +144,7 @@ Tiles:
 
 ### Lyon2 - TODO
 
-EPSG:
+EPSG: 3946
 
 Number of points:
 
