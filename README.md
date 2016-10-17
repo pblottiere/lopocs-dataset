@@ -85,8 +85,6 @@ WGS84: 42.209972, -84.229778
 
 ## Montreal
 
-Website: http://data.grandlyon.com/imagerie/points-lidar-2015-du-grand-lyon/
-
 Download: http://montreal.maps.arcgis.com/apps/Viewer/index.html?appid=0e6890209c024ef88a73cbc0bb6a3308
 
 EPSG: 2950
